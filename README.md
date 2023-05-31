@@ -9,3 +9,7 @@ FastAPi using sqlite3 and docker
     
 ### This is simple, lets start project ? only execute in your terminal.
     docker-compose up --build
+
+### After execute docker, your project up in:
+    http://localhost:8000/docs
+    
